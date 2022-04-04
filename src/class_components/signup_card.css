@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+
+}
+.dp_container{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.dp_container:hover{
+    cursor: pointer;
+}
+.signup_card_container{
+    width: 500px;
+    height: 650px;
+    border-style: solid;
+    padding: 5px;
+}
+.img_container{
+    display: flex;
+    justify-content: center;
+}
+.info_container{
+    display: flex;
+    justify-content: center;
+}

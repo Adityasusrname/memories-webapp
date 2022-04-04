@@ -1,0 +1,17 @@
+.div_enter_card{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.div_enter_card_contents{
+    
+    height: 500px;
+    width: 300px;
+    border-style: solid;
+    padding: 5px;
+}
+.scc{
+    display: flex;
+    justify-content: center;
+}

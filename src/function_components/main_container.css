@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    height: 30px;
+}
+.header{
+    height: 30px;
+}
+.header > button{
+    margin: 20px;
+}
+button{
+    width: 500px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid red;
+}
+.current_option{
+    display: flex;
+    justify-content: center;
+}

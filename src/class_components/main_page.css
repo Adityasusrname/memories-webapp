@@ -1,0 +1,25 @@
+#dp{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.contents_main_page_header{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+
+}
+.contents_main_page_header > div{
+    margin: 10px;
+}
+.contents_main_page_container{
+  
+    height: 500px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+}
+#search_input{
+    width: 500px;
+}
